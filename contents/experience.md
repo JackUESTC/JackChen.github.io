@@ -1,21 +1,19 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Research on Consensus Algorithms for Internet of Vehicles (IoV)**  
+**May 2023 – August 2025**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Enhanced communication efficiency and security for blockchain-enabled IoV.  
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Proposed a Directed Acyclic Graph (DAG) consensus scheme combining robust dynamic sharding and tree-broadcasting  
+- Adopted the DAG-based structure to handle cross-shard transactions efficiently  
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **Development of UAV Indoor Autonomous Flight Control System (Captain)**  
+**January - June 2025**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+Led the development of UAV flight control system utilizing Raspberry Pi and Pixhawk 2.4.8 as core components.  
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### Key Contributions:  
+- Architected and implemented an integrated autonomous navigation system combining computer vision and sensor technologies  
+- Integrated OpenCV for visual navigation and obstacle avoidance capabilities  

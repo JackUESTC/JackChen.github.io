@@ -1,3 +1,4 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- National Scholarship (2/241) for Academic Year 2024-2025
+- UESTC First-class Outstanding Undergraduate Student Scholarship for 2024-2025
+- National Scholarship (5/247) for Academic Year 2023-2024
+- UESTC First-class Outstanding Undergraduate Student Scholarship for 2023-2024
