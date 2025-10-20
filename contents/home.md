@@ -1,20 +1,11 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![JackUESTC](https://img.shields.io/badge/JackUESTC-github-blue?logo=github)](https://github.com/JackUESTC)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+Hi! My name is Runhua Chen. I am currently a senior undergraduate student majoring in Electrical Engineering at the University of Electronic Science and Technology of China (UESTC). I am honored to have been admitted as a Master's student to the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University, starting in the Fall of 2026, under the supervision of Prof. Longbo Huang.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+During my undergraduate studies, my research interests have included blockchain (particularly consensus algorithms) and the Internet of Things (especially the Internet of Vehicles). In the future, I plan to delve deeper into machine learning and decision-making problems, with a greater focus on:
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+• Reinforcement Learning (RL)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+#### Contact  
+<code>2022190505012@std.uestc.edu.cn</code>  
+<code>(+86)13631639260</code>
